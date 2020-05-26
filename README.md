@@ -1,0 +1,2 @@
+# Capstone-NLP-
+The capstone project is a focused approach to attempt a real-life challenge with the learning from the program. Capstone project is based on the themes of Computer Vision and Natural Language Processing. The Goals of the Projects achieved are tagged here. • Computer Vision: Pneumonia Detection - Locate the position of inflammation in an image. • Natural Language Processing: Automatic Ticket Allocation- Build a classifier that can classify the tickets by analysing text.
